@@ -56,3 +56,18 @@ This an addendum to the original [Solace Assignment repo](https://github.com/Lil
 
 ### Discussion
 Thank you for taking the time to review this repository. In my initial attempt, I focused heavily on commit history and documentation, which came at the expense of overall polish. With this iteration, my goal was to present a more refined and thoughtful submission. While time constraints are always a factor, I wanted to demonstrate my commitment to delivering work I can stand behind—both as a reflection of my skills and in support of my application for this role.
+
+### Videos
+
+<details><summary>Web View</summary>
+
+
+  https://github.com/user-attachments/assets/ea3afb9f-8110-4fc9-a15e-b5c70f5bc073
+
+</details>
+<details><summary>Mobile View</summary>
+
+
+  https://github.com/user-attachments/assets/2ad77b84-3b07-471e-8b30-afbef7e1daef
+
+</details>
