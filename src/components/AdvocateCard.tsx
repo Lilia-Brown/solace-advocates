@@ -14,9 +14,14 @@ type Advocate = {
 export default function AdvocateCard({ advocate }: { advocate: Advocate }) {
   const [isExpanded, setIsExpanded] = useState(false);
 
+  // Sort specialties alphabetically
+  const sortedSpecialties = [...advocate.specialties].sort((a, b) =>
+    a.localeCompare(b)
+  );
+
   const displayedSpecialties = isExpanded
-    ? advocate.specialties
-    : advocate.specialties.slice(0, 1);
+    ? sortedSpecialties
+    : sortedSpecialties.slice(0, 1);
 
   return (
     <div className="advocate-card">
